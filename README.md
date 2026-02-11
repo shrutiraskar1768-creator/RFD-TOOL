@@ -52,3 +52,9 @@ python3 manage.py runserver
 ```
 python manage.py runserver
 ```
+Command         	What it does                     	When to use it
+git pull    	Downloads latest changes    	Start of the day.
+git status  	Shows what is modified	     Middle of the day.
+git add .    	Stages all changes	         Before committing.
+git commit -m "..." 	Saves a version   	After finishing a task.
+git push	    Uploads to GitHub	          End of the day.
